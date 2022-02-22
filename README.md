@@ -8,15 +8,20 @@ We check the time complexity of Binary Search Tree with height of binary search 
 **Best Case Complexity O(log n)**
 
 If a Binary Search Tree is balanced, that means height of the binary search tree is *logn*. So complexity becomes **O(logn)**
+![balanced](https://user-images.githubusercontent.com/20372673/155138926-2c1261b9-66c4-406e-90e1-fd4ed95a91f3.png)
+
+
 
 **Worst Case Complexity O(n)**
 
 If a Binary Search Tree is skewed, that means height of the binary search tree is *n*. So complexity becomes **O(n)**
+![skewed](https://user-images.githubusercontent.com/20372673/155138605-04aee64d-f8c1-4736-b160-756909d42dd1.png)
+
 
 
 **Average Case Complexity  O(log n)**
 
-Height of the binary search tree is *logn*. So complexity becomes **O(logn)**
+Average Case is between Best Case situation and Worst Case situation. Height of the binary search tree is *logn*. So complexity becomes **O(logn)**
 
 
 **How Binary Search Tree works**
@@ -35,9 +40,7 @@ These rules are used on every node and subtrees.
 
 **Example 1: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]**
 
-If you want to fully understand how BST works, you can check the tool which is created by Departmant of Computer Science at San Francisco University: https://www.cs.usfca.edu/~galles/visualization/BST.html 
-
 ![binary search tree](https://user-images.githubusercontent.com/20372673/155127201-144b7f03-cfd0-49a2-ad73-85b683268243.png)
 
-
+If you want to fully understand how BST works, you can check the tool which is created by Departmant of Computer Science at San Francisco University: https://www.cs.usfca.edu/~galles/visualization/BST.html 
 
