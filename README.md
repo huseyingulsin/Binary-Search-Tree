@@ -14,7 +14,7 @@ If a Binary Search Tree is balanced, that means height of the binary search tree
 If a Binary Search Tree is skewed, that means height of the binary search tree is *n*. So complexity becomes **O(n)**
 
 
-**Average Case Complexity  O(n*log n)**
+**Average Case Complexity  O(log n)**
 
 Height of the binary search tree is *logn*. So complexity becomes **O(logn)**
 
